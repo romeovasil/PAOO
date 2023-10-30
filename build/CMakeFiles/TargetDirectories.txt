@@ -1,0 +1,3 @@
+/Users/romeovasil/Desktop/temaPaoo1/build/CMakeFiles/TemaPaoo1.dir
+/Users/romeovasil/Desktop/temaPaoo1/build/CMakeFiles/edit_cache.dir
+/Users/romeovasil/Desktop/temaPaoo1/build/CMakeFiles/rebuild_cache.dir
